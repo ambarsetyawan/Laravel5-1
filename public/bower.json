@@ -1,0 +1,17 @@
+{
+  "name": "Laravel",
+  "version": "0.0.1",
+  "description": "Test con Laravel",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Gregory Pekynov"
+  ],
+  "license": "MIT",
+  "homepage": "localhost:8000",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
